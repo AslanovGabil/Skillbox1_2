@@ -1,0 +1,22 @@
+[
+  {
+    "User": {
+      "Id_User": 800596042,
+      "Name": "Habibullah",
+      "Photo": "..\\..\\Media\\Images\\Habibullah_800596042.jpg"
+    },
+    "CountNewMessage": 0,
+    "TimeNewMessage": "0001-01-01T00:00:00",
+    "Path": "..\\..\\Media\\Json\\Habibullah_800596042.json"
+  },
+  {
+    "User": {
+      "Id_User": 546458067,
+      "Name": "Habibullah",
+      "Photo": "..\\..\\Media\\Images\\Habibullah_546458067.jpg"
+    },
+    "CountNewMessage": 0,
+    "TimeNewMessage": "0001-01-01T00:00:00",
+    "Path": "..\\..\\Media\\Json\\Habibullah_546458067.json"
+  }
+]
